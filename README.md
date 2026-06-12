@@ -5,7 +5,7 @@
   <img height="195" src="https://kyle-readme-stats.vercel.app/api/top-langs/?username=kylekkkk61&layout=compact&card_width=350&bg_color=161616&title_color=f0eadd&text_color=f0eadd&hide_border=true" alt="Top Languages">
 </div>
 
-AI Enthusiast & Vibe Coder. Always exploring new frontiers in tech. Feel free to reach out if you want to collaborate!
+FinTech Builder. Turning abstract business ideas, user pain points, and trading workflow problems into structured products, tools, and execution systems.
 
 <!--START_SECTION:vibe-->
 ```text
