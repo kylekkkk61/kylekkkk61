@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kylekkkk61&show_icons=true&bg_color=161616&title_color=f0eadd&text_color=f0eadd&icon_color=8da3b5&hide_border=true&rank_icon=github" alt="GitHub Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylekkkk61&layout=compact&bg_color=161616&title_color=f0eadd&text_color=f0eadd&hide_border=true" alt="Top Languages">
-</p>
+<div align="center">
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=kylekkkk61&show_icons=true&bg_color=161616&title_color=f0eadd&text_color=f0eadd&icon_color=8da3b5&hide_border=true&rank_icon=github" alt="GitHub Stats">
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylekkkk61&layout=compact&card_width=350&bg_color=161616&title_color=f0eadd&text_color=f0eadd&hide_border=true" alt="Top Languages">
+</div>
 
 <!-- TODO: Update with your real bio -->
 AI Enthusiast & Vibe Coder. Always exploring new frontiers in tech. Feel free to reach out if you want to collaborate!
