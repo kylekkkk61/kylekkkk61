@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<p>
-    <img width="400em" src="https://github-readme-stats.vercel.app/api?username=kylekkkk61&show_icons=true&bg_color=161616&title_color=f0eadd&text_color=f0eadd&icon_color=8da3b5&hide_border=true&rank_icon=github" alt="GitHub Stats">
-    <img width="400em" height="159em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylekkkk61&layout=compact&bg_color=161616&title_color=f0eadd&text_color=f0eadd&hide_border=true" alt="Top Languages">
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=kylekkkk61&show_icons=true&bg_color=161616&title_color=f0eadd&text_color=f0eadd&icon_color=8da3b5&hide_border=true&rank_icon=github" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kylekkkk61&layout=compact&bg_color=161616&title_color=f0eadd&text_color=f0eadd&hide_border=true" alt="Top Languages">
 </p>
 
 <!-- TODO: Update with your real bio -->
