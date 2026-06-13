@@ -11,12 +11,12 @@ FinTech Builder. Turning abstract business ideas, user pain points, and trading 
 ```text
 🤖 Vibe Coding Stats (All Time)
 
-Total Command Time: 5778 hrs 59 mins
-Decisions Made (Prompts Sent): 780
+Total Command Time: 6137 hrs 12 mins
+Decisions Made (Prompts Sent): 839
 
 Token Usage & Generation:
-AI Generated   3135.0M tokens  ███████████████████░░░░░   80.00 %
-Human Typed    783.5M tokens  ░░░░░░░░░░░░░░░░░░░█████   20.00 %
+AI Generated   3141.9M tokens  ███████████████████░░░░░   80.01 %
+Human Typed    785.2M tokens  ░░░░░░░░░░░░░░░░░░░█████   19.99 %
 
 Top Agents: Codex (99%), Antigravity (0%)
 ```
