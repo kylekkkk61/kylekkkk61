@@ -5,18 +5,20 @@
   <img height="195" src="https://kyle-readme-stats.vercel.app/api/top-langs/?username=kylekkkk61&layout=compact&card_width=350&bg_color=161616&title_color=f0eadd&text_color=f0eadd&hide_border=true" alt="Top Languages">
 </div>
 
-FinTech Builder. Turning abstract business ideas, user pain points, and trading workflow problems into structured products, tools, and execution systems.
+FinTech builder turning market problems, product ideas, and trading workflows into structured tools and execution-aware systems.
 
 <!--START_SECTION:vibe-->
 ```text
-🤖 Vibe Coding Stats (All Time)
+⌘ AI-Native Build Workflow
 
-Human Life Saved: 992 hrs 15 mins
-Decisions Made (Prompts Sent): 3969
+I build through an AI-native workflow: combining coding agents, structured prompts, review loops, and lightweight agent harnesses to turn product ideas into tested, documented, working systems.
+
+Time Reclaimed: 1005 hrs 15 mins
+Decisions Made: 4021
 
 Token Usage & Generation:
-AI Generated   3148.0M tokens  ███████████████████░░░░░   80.01 %
-Human Typed    786.7M tokens  ░░░░░░░░░░░░░░░░░░░█████   19.99 %
+AI Generated   3310.4M tokens  ███████████████████░░░░░   80.01 %
+Human Typed    827.3M tokens  ░░░░░░░░░░░░░░░░░░░█████   19.99 %
 
 Top Agents: Codex (99%), Antigravity (0%)
 ```
