@@ -13,12 +13,12 @@ FinTech builder turning market problems, product ideas, and trading workflows in
 
 I build through an AI-native workflow: combining coding agents, structured prompts, review loops, and lightweight agent harnesses to turn product ideas into tested, documented, working systems.
 
-Time Reclaimed: 1091 hrs 0 mins
-Decisions Made: 4364
+Time Reclaimed: 1106 hrs 0 mins
+Decisions Made: 4424
 
 Token Usage & Generation:
-AI Generated   3519.0M tokens  ███████████████████░░░░░   80.01 %
-Human Typed    879.3M tokens  ░░░░░░░░░░░░░░░░░░░█████   19.99 %
+AI Generated   3805.1M tokens  ███████████████████░░░░░   80.01 %
+Human Typed    950.9M tokens  ░░░░░░░░░░░░░░░░░░░█████   19.99 %
 
 Top Agents: Codex (99%), Antigravity (0%)
 ```
