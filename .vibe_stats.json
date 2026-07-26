@@ -1,0 +1,740 @@
+{
+  "version": 1,
+  "days": {
+    "2025-09-24": {
+      "human_prompts": 37,
+      "human_tokens": 7349,
+      "agent_tokens": 8963
+    },
+    "2025-09-25": {
+      "human_prompts": 13,
+      "human_tokens": 4188,
+      "agent_tokens": 3352
+    },
+    "2025-09-27": {
+      "human_prompts": 9,
+      "human_tokens": 22398,
+      "agent_tokens": 2473
+    },
+    "2025-09-30": {
+      "human_prompts": 5,
+      "human_tokens": 11720,
+      "agent_tokens": 1622
+    },
+    "2025-10-01": {
+      "human_prompts": 21,
+      "human_tokens": 29634,
+      "agent_tokens": 5138
+    },
+    "2025-10-15": {
+      "human_prompts": 9,
+      "human_tokens": 1164,
+      "agent_tokens": 1792
+    },
+    "2025-10-16": {
+      "human_prompts": 6,
+      "human_tokens": 277,
+      "agent_tokens": 1869
+    },
+    "2025-10-18": {
+      "human_prompts": 4,
+      "human_tokens": 1834,
+      "agent_tokens": 1554
+    },
+    "2025-10-19": {
+      "human_prompts": 23,
+      "human_tokens": 4454,
+      "agent_tokens": 8367
+    },
+    "2025-10-20": {
+      "human_prompts": 34,
+      "human_tokens": 5131,
+      "agent_tokens": 9226
+    },
+    "2025-10-21": {
+      "human_prompts": 40,
+      "human_tokens": 9194,
+      "agent_tokens": 15823
+    },
+    "2025-10-22": {
+      "human_prompts": 22,
+      "human_tokens": 7016,
+      "agent_tokens": 6906
+    },
+    "2025-10-24": {
+      "human_prompts": 19,
+      "human_tokens": 1488,
+      "agent_tokens": 4651
+    },
+    "2025-10-25": {
+      "human_prompts": 11,
+      "human_tokens": 628,
+      "agent_tokens": 2712
+    },
+    "2025-10-26": {
+      "human_prompts": 7,
+      "human_tokens": 1687,
+      "agent_tokens": 1295
+    },
+    "2025-10-27": {
+      "human_prompts": 2,
+      "human_tokens": 702,
+      "agent_tokens": 437
+    },
+    "2025-10-28": {
+      "human_prompts": 50,
+      "human_tokens": 22209,
+      "agent_tokens": 16300
+    },
+    "2025-10-29": {
+      "human_prompts": 22,
+      "human_tokens": 663,
+      "agent_tokens": 6271
+    },
+    "2025-10-30": {
+      "human_prompts": 2,
+      "human_tokens": 41,
+      "agent_tokens": 386
+    },
+    "2025-11-06": {
+      "human_prompts": 4,
+      "human_tokens": 1044,
+      "agent_tokens": 387
+    },
+    "2025-11-07": {
+      "human_prompts": 29,
+      "human_tokens": 4653,
+      "agent_tokens": 9606
+    },
+    "2025-11-14": {
+      "human_prompts": 1,
+      "human_tokens": 28,
+      "agent_tokens": 77
+    },
+    "2025-11-19": {
+      "human_prompts": 19,
+      "human_tokens": 1285,
+      "agent_tokens": 10888
+    },
+    "2025-12-01": {
+      "human_prompts": 81,
+      "human_tokens": 16444,
+      "agent_tokens": 13645
+    },
+    "2025-12-04": {
+      "human_prompts": 30,
+      "human_tokens": 5256,
+      "agent_tokens": 10233
+    },
+    "2025-12-05": {
+      "human_prompts": 47,
+      "human_tokens": 11386,
+      "agent_tokens": 14196
+    },
+    "2025-12-09": {
+      "human_prompts": 138,
+      "human_tokens": 21111,
+      "agent_tokens": 35714
+    },
+    "2025-12-10": {
+      "human_prompts": 12,
+      "human_tokens": 961,
+      "agent_tokens": 4299
+    },
+    "2025-12-11": {
+      "human_prompts": 28,
+      "human_tokens": 15630,
+      "agent_tokens": 7602
+    },
+    "2025-12-12": {
+      "human_prompts": 1,
+      "human_tokens": 11,
+      "agent_tokens": 339
+    },
+    "2025-12-13": {
+      "human_prompts": 40,
+      "human_tokens": 11586,
+      "agent_tokens": 9713
+    },
+    "2025-12-16": {
+      "human_prompts": 13,
+      "human_tokens": 2183,
+      "agent_tokens": 3110
+    },
+    "2025-12-20": {
+      "human_prompts": 24,
+      "human_tokens": 20033,
+      "agent_tokens": 12925
+    },
+    "2025-12-22": {
+      "human_prompts": 13,
+      "human_tokens": 660,
+      "agent_tokens": 4581
+    },
+    "2025-12-23": {
+      "human_prompts": 3,
+      "human_tokens": 29,
+      "agent_tokens": 433
+    },
+    "2026-01-02": {
+      "human_prompts": 28,
+      "human_tokens": 4757,
+      "agent_tokens": 7707
+    },
+    "2026-01-03": {
+      "human_prompts": 33,
+      "human_tokens": 4864,
+      "agent_tokens": 10128
+    },
+    "2026-01-04": {
+      "human_prompts": 2,
+      "human_tokens": 51,
+      "agent_tokens": 1101
+    },
+    "2026-02-01": {
+      "human_prompts": 9,
+      "human_tokens": 287,
+      "agent_tokens": 2102
+    },
+    "2026-03-09": {
+      "human_prompts": 30,
+      "human_tokens": 27089,
+      "agent_tokens": 22465
+    },
+    "2026-03-10": {
+      "human_prompts": 31,
+      "human_tokens": 41462,
+      "agent_tokens": 17058
+    },
+    "2026-03-11": {
+      "human_prompts": 28,
+      "human_tokens": 27527,
+      "agent_tokens": 12836
+    },
+    "2026-03-12": {
+      "human_prompts": 62,
+      "human_tokens": 17428,
+      "agent_tokens": 37591
+    },
+    "2026-03-13": {
+      "human_prompts": 56,
+      "human_tokens": 8887,
+      "agent_tokens": 30766
+    },
+    "2026-03-14": {
+      "human_prompts": 19,
+      "human_tokens": 2883,
+      "agent_tokens": 14377
+    },
+    "2026-03-15": {
+      "human_prompts": 10,
+      "human_tokens": 1471,
+      "agent_tokens": 4107
+    },
+    "2026-03-16": {
+      "human_prompts": 15,
+      "human_tokens": 1306,
+      "agent_tokens": 12870
+    },
+    "2026-03-17": {
+      "human_prompts": 11,
+      "human_tokens": 170,
+      "agent_tokens": 7906
+    },
+    "2026-03-18": {
+      "human_prompts": 33,
+      "human_tokens": 8700,
+      "agent_tokens": 20608
+    },
+    "2026-03-19": {
+      "human_prompts": 11,
+      "human_tokens": 216,
+      "agent_tokens": 3460
+    },
+    "2026-03-20": {
+      "human_prompts": 5,
+      "human_tokens": 123,
+      "agent_tokens": 1797
+    },
+    "2026-03-21": {
+      "human_prompts": 0,
+      "human_tokens": 0,
+      "agent_tokens": 1598
+    },
+    "2026-04-01": {
+      "human_prompts": 4,
+      "human_tokens": 1306,
+      "agent_tokens": 1617
+    },
+    "2026-04-02": {
+      "human_prompts": 30,
+      "human_tokens": 4995,
+      "agent_tokens": 26385
+    },
+    "2026-04-03": {
+      "human_prompts": 11,
+      "human_tokens": 1936,
+      "agent_tokens": 7623
+    },
+    "2026-04-08": {
+      "human_prompts": 28,
+      "human_tokens": 4308,
+      "agent_tokens": 15864
+    },
+    "2026-04-09": {
+      "human_prompts": 12,
+      "human_tokens": 429,
+      "agent_tokens": 10773
+    },
+    "2026-04-10": {
+      "human_prompts": 2,
+      "human_tokens": 41,
+      "agent_tokens": 688
+    },
+    "2026-04-12": {
+      "human_prompts": 31,
+      "human_tokens": 49738,
+      "agent_tokens": 22900
+    },
+    "2026-04-13": {
+      "human_prompts": 52,
+      "human_tokens": 86004,
+      "agent_tokens": 41788
+    },
+    "2026-04-14": {
+      "human_prompts": 32,
+      "human_tokens": 6038,
+      "agent_tokens": 21767
+    },
+    "2026-04-15": {
+      "human_prompts": 14,
+      "human_tokens": 541,
+      "agent_tokens": 10693
+    },
+    "2026-04-16": {
+      "human_prompts": 26,
+      "human_tokens": 2748,
+      "agent_tokens": 19175
+    },
+    "2026-04-17": {
+      "human_prompts": 17,
+      "human_tokens": 540,
+      "agent_tokens": 13166
+    },
+    "2026-04-18": {
+      "human_prompts": 301,
+      "human_tokens": 21904,
+      "agent_tokens": 237017
+    },
+    "2026-04-19": {
+      "human_prompts": 14,
+      "human_tokens": 522,
+      "agent_tokens": 14498
+    },
+    "2026-04-20": {
+      "human_prompts": 153,
+      "human_tokens": 11670,
+      "agent_tokens": 120967
+    },
+    "2026-04-21": {
+      "human_prompts": 15,
+      "human_tokens": 606,
+      "agent_tokens": 12710
+    },
+    "2026-04-22": {
+      "human_prompts": 15,
+      "human_tokens": 360,
+      "agent_tokens": 8824
+    },
+    "2026-04-23": {
+      "human_prompts": 9,
+      "human_tokens": 245,
+      "agent_tokens": 4448
+    },
+    "2026-04-24": {
+      "human_prompts": 20,
+      "human_tokens": 1471,
+      "agent_tokens": 19721
+    },
+    "2026-04-25": {
+      "human_prompts": 12,
+      "human_tokens": 289,
+      "agent_tokens": 8726
+    },
+    "2026-04-26": {
+      "human_prompts": 25,
+      "human_tokens": 9454,
+      "agent_tokens": 15986
+    },
+    "2026-04-27": {
+      "human_prompts": 47,
+      "human_tokens": 10495,
+      "agent_tokens": 30612
+    },
+    "2026-04-28": {
+      "human_prompts": 1,
+      "human_tokens": 81,
+      "agent_tokens": 1678
+    },
+    "2026-04-29": {
+      "human_prompts": 1,
+      "human_tokens": 108,
+      "agent_tokens": 941
+    },
+    "2026-05-01": {
+      "human_prompts": 17,
+      "human_tokens": 3059,
+      "agent_tokens": 9905
+    },
+    "2026-05-02": {
+      "human_prompts": 1,
+      "human_tokens": 203,
+      "agent_tokens": 570
+    },
+    "2026-05-04": {
+      "human_prompts": 7,
+      "human_tokens": 2923,
+      "agent_tokens": 2674
+    },
+    "2026-05-05": {
+      "human_prompts": 1,
+      "human_tokens": 156,
+      "agent_tokens": 226
+    },
+    "2026-05-06": {
+      "human_prompts": 25,
+      "human_tokens": 12501,
+      "agent_tokens": 22524
+    },
+    "2026-05-07": {
+      "human_prompts": 7,
+      "human_tokens": 368,
+      "agent_tokens": 4643
+    },
+    "2026-05-08": {
+      "human_prompts": 16,
+      "human_tokens": 12268,
+      "agent_tokens": 5330
+    },
+    "2026-05-09": {
+      "human_prompts": 8,
+      "human_tokens": 1698,
+      "agent_tokens": 5800
+    },
+    "2026-05-10": {
+      "human_prompts": 8,
+      "human_tokens": 2639,
+      "agent_tokens": 4663
+    },
+    "2026-05-11": {
+      "human_prompts": 15,
+      "human_tokens": 2442,
+      "agent_tokens": 6138
+    },
+    "2026-05-12": {
+      "human_prompts": 129,
+      "human_tokens": 24861,
+      "agent_tokens": 54255
+    },
+    "2026-05-13": {
+      "human_prompts": 61,
+      "human_tokens": 11954,
+      "agent_tokens": 28927
+    },
+    "2026-05-14": {
+      "human_prompts": 10,
+      "human_tokens": 1915,
+      "agent_tokens": 5171
+    },
+    "2026-05-15": {
+      "human_prompts": 538,
+      "human_tokens": 95080,
+      "agent_tokens": 265625
+    },
+    "2026-05-16": {
+      "human_prompts": 446,
+      "human_tokens": 83728,
+      "agent_tokens": 235426
+    },
+    "2026-05-18": {
+      "human_prompts": 27,
+      "human_tokens": 5644,
+      "agent_tokens": 13528
+    },
+    "2026-05-19": {
+      "human_prompts": 47,
+      "human_tokens": 4774,
+      "agent_tokens": 25945
+    },
+    "2026-05-20": {
+      "human_prompts": 1,
+      "human_tokens": 58,
+      "agent_tokens": 853
+    },
+    "2026-05-21": {
+      "human_prompts": 163,
+      "human_tokens": 27779,
+      "agent_tokens": 118968
+    },
+    "2026-05-22": {
+      "human_prompts": 122,
+      "human_tokens": 20316,
+      "agent_tokens": 117755
+    },
+    "2026-05-23": {
+      "human_prompts": 64,
+      "human_tokens": 9626,
+      "agent_tokens": 436190
+    },
+    "2026-05-24": {
+      "human_prompts": 55,
+      "human_tokens": 5593,
+      "agent_tokens": 124377
+    },
+    "2026-05-25": {
+      "human_prompts": 34,
+      "human_tokens": 2064,
+      "agent_tokens": 29473
+    },
+    "2026-05-26": {
+      "human_prompts": 8,
+      "human_tokens": 1248,
+      "agent_tokens": 24238
+    },
+    "2026-05-27": {
+      "human_prompts": 46,
+      "human_tokens": 6703,
+      "agent_tokens": 88857
+    },
+    "2026-05-28": {
+      "human_prompts": 77,
+      "human_tokens": 9535,
+      "agent_tokens": 112000
+    },
+    "2026-05-29": {
+      "human_prompts": 6,
+      "human_tokens": 1442,
+      "agent_tokens": 5343
+    },
+    "2026-05-31": {
+      "human_prompts": 18,
+      "human_tokens": 729,
+      "agent_tokens": 10904
+    },
+    "2026-06-01": {
+      "human_prompts": 42,
+      "human_tokens": 13719,
+      "agent_tokens": 30477
+    },
+    "2026-06-02": {
+      "human_prompts": 25,
+      "human_tokens": 2141,
+      "agent_tokens": 23558
+    },
+    "2026-06-03": {
+      "human_prompts": 8,
+      "human_tokens": 2067,
+      "agent_tokens": 7930
+    },
+    "2026-06-04": {
+      "human_prompts": 21,
+      "human_tokens": 2017,
+      "agent_tokens": 21720
+    },
+    "2026-06-05": {
+      "human_prompts": 54,
+      "human_tokens": 6164,
+      "agent_tokens": 70663
+    },
+    "2026-06-06": {
+      "human_prompts": 62,
+      "human_tokens": 5136,
+      "agent_tokens": 75884
+    },
+    "2026-06-07": {
+      "human_prompts": 3,
+      "human_tokens": 923,
+      "agent_tokens": 5600
+    },
+    "2026-06-08": {
+      "human_prompts": 51,
+      "human_tokens": 6442,
+      "agent_tokens": 130207
+    },
+    "2026-06-09": {
+      "human_prompts": 15,
+      "human_tokens": 1452,
+      "agent_tokens": 40787
+    },
+    "2026-06-10": {
+      "human_prompts": 55,
+      "human_tokens": 6247,
+      "agent_tokens": 143303
+    },
+    "2026-06-11": {
+      "human_prompts": 163,
+      "human_tokens": 19730,
+      "agent_tokens": 416567
+    },
+    "2026-06-12": {
+      "human_prompts": 126,
+      "human_tokens": 13237,
+      "agent_tokens": 185885
+    },
+    "2026-06-13": {
+      "human_prompts": 42,
+      "human_tokens": 5597,
+      "agent_tokens": 91409
+    },
+    "2026-06-14": {
+      "human_prompts": 56,
+      "human_tokens": 4796,
+      "agent_tokens": 81903
+    },
+    "2026-06-15": {
+      "human_prompts": 36,
+      "human_tokens": 3200,
+      "agent_tokens": 123490
+    },
+    "2026-06-16": {
+      "human_prompts": 118,
+      "human_tokens": 10022,
+      "agent_tokens": 364603
+    },
+    "2026-06-17": {
+      "human_prompts": 53,
+      "human_tokens": 4256,
+      "agent_tokens": 164690
+    },
+    "2026-06-18": {
+      "human_prompts": 22,
+      "human_tokens": 1516,
+      "agent_tokens": 27100
+    },
+    "2026-06-19": {
+      "human_prompts": 52,
+      "human_tokens": 8891,
+      "agent_tokens": 71721
+    },
+    "2026-06-20": {
+      "human_prompts": 24,
+      "human_tokens": 2990,
+      "agent_tokens": 19266
+    },
+    "2026-06-21": {
+      "human_prompts": 16,
+      "human_tokens": 1347,
+      "agent_tokens": 33516
+    },
+    "2026-06-22": {
+      "human_prompts": 71,
+      "human_tokens": 7565,
+      "agent_tokens": 209289
+    },
+    "2026-06-23": {
+      "human_prompts": 36,
+      "human_tokens": 4495,
+      "agent_tokens": 146035
+    },
+    "2026-06-24": {
+      "human_prompts": 48,
+      "human_tokens": 2935,
+      "agent_tokens": 58419
+    },
+    "2026-06-25": {
+      "human_prompts": 26,
+      "human_tokens": 8389,
+      "agent_tokens": 47017
+    },
+    "2026-07-09": {
+      "human_prompts": 56,
+      "human_tokens": 4838,
+      "agent_tokens": 139365
+    },
+    "2026-07-10": {
+      "human_prompts": 92,
+      "human_tokens": 7109,
+      "agent_tokens": 143901
+    },
+    "2026-07-11": {
+      "human_prompts": 73,
+      "human_tokens": 1228,
+      "agent_tokens": 98782
+    },
+    "2026-07-12": {
+      "human_prompts": 47,
+      "human_tokens": 16710,
+      "agent_tokens": 75276
+    },
+    "2026-07-13": {
+      "human_prompts": 133,
+      "human_tokens": 30046,
+      "agent_tokens": 2440485
+    },
+    "2026-07-14": {
+      "human_prompts": 76,
+      "human_tokens": 13347,
+      "agent_tokens": 5267912
+    },
+    "2026-07-15": {
+      "human_prompts": 48,
+      "human_tokens": 8713,
+      "agent_tokens": 1028765
+    },
+    "2026-07-16": {
+      "human_prompts": 104,
+      "human_tokens": 19718,
+      "agent_tokens": 2836803
+    },
+    "2026-07-17": {
+      "human_prompts": 48,
+      "human_tokens": 1048,
+      "agent_tokens": 1336779
+    },
+    "2026-07-18": {
+      "human_prompts": 24,
+      "human_tokens": 288,
+      "agent_tokens": 1379926
+    },
+    "2026-07-19": {
+      "human_prompts": 71,
+      "human_tokens": 5466,
+      "agent_tokens": 831575
+    },
+    "2026-07-20": {
+      "human_prompts": 19,
+      "human_tokens": 1359,
+      "agent_tokens": 656438
+    },
+    "2026-07-21": {
+      "human_prompts": 7,
+      "human_tokens": 1695,
+      "agent_tokens": 826923
+    },
+    "2026-07-22": {
+      "human_prompts": 9,
+      "human_tokens": 10980,
+      "agent_tokens": 2292422
+    },
+    "2026-07-23": {
+      "human_prompts": 44,
+      "human_tokens": 6250,
+      "agent_tokens": 2473403
+    },
+    "2026-07-24": {
+      "human_prompts": 18,
+      "human_tokens": 2996,
+      "agent_tokens": 2188793
+    },
+    "2026-07-25": {
+      "human_prompts": 25,
+      "human_tokens": 13215,
+      "agent_tokens": 3898021
+    },
+    "2026-07-26": {
+      "human_prompts": 97,
+      "human_tokens": 20584,
+      "agent_tokens": 4518501
+    }
+  }
+}
