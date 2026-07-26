@@ -732,9 +732,14 @@
       "agent_tokens": 3898021
     },
     "2026-07-26": {
-      "human_prompts": 97,
-      "human_tokens": 20584,
-      "agent_tokens": 4518501
+      "human_prompts": 116,
+      "human_tokens": 23509,
+      "agent_tokens": 4532270
+    },
+    "2026-07-27": {
+      "human_prompts": 15,
+      "human_tokens": 879,
+      "agent_tokens": 13740
     }
   }
 }
