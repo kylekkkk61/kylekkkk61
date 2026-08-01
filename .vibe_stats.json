@@ -757,9 +757,14 @@
       "agent_tokens": 12270208
     },
     "2026-07-31": {
-      "human_prompts": 0,
-      "human_tokens": 0,
-      "agent_tokens": 58
+      "human_prompts": 44,
+      "human_tokens": 5006,
+      "agent_tokens": 1391034
+    },
+    "2026-08-01": {
+      "human_prompts": 51,
+      "human_tokens": 13387,
+      "agent_tokens": 32742
     }
   }
 }
