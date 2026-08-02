@@ -13,13 +13,13 @@ FinTech builder turning market problems, product ideas, and trading workflows in
 
 I build through an AI-native workflow: combining coding agents, structured prompts, review loops, and lightweight agent harnesses to turn product ideas into tested, documented, working systems.
 
-Time Reclaimed: 5272 hrs 30 mins
-Decisions Made: 21090
+Time Reclaimed: 4792 hrs 30 mins
+Decisions Made: 19170
 
 AI Workflow Metrics:
-AI Workflow Throughput    21.53B tokens
-Last 14 Days             ▃▄▆▆▆▆▁█▇█▇█▄▂
-Human Prompts              6,757
+AI Workflow Throughput    22.71B tokens
+Last 14 Days             ▄▆▆▆▆▁█▇█▇█▄▅▄
+Human Prompts              6,771
 Output Leverage          1× Direction ──[ AI WORKFLOW ]──▶ 45.2× Execution
 ```
 <!--END_SECTION:vibe-->
