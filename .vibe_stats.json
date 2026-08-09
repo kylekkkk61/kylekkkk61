@@ -802,9 +802,9 @@
       "agent_tokens": 60997
     },
     "2026-08-09": {
-      "human_prompts": 0,
-      "human_tokens": 0,
-      "agent_tokens": 203
+      "human_prompts": 119,
+      "human_tokens": 10312,
+      "agent_tokens": 77428
     }
   }
 }
