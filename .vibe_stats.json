@@ -855,6 +855,11 @@
       "human_prompts": 3,
       "human_tokens": 2031,
       "agent_tokens": 0
+    },
+    "2026-08-20": {
+      "human_prompts": 71,
+      "human_tokens": 73393,
+      "agent_tokens": 67743
     }
   }
 }
