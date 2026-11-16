@@ -18,7 +18,7 @@ Decisions Made: 26393
 
 AI Workflow Metrics:
 AI Workflow Throughput    40.68B tokens
-Last 14 Days             ▁▇█▄▃▂▂▃▁▁▂▁▁▁
+Last 14 Days             ▇█▄▃▂▂▃▁▁▂▁▁▁▁
 Human Prompts              8,089
 Output Leverage          1× Direction ──[ AI WORKFLOW ]──▶ 37.1× Execution
 ```
